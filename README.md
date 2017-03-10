@@ -17,8 +17,11 @@ https://github.com/ripienaar/free-for-dev
 https://github.com/wayanjimmy/mysmartfren-cli
 https://github.com/PUSRISTEK/free-programming-books
 
-https://github.com/Developer-Y/cs-video-courses
- -  List of Computer Science courses with video lectures.
+ 
+https://github.com/donnemartin/system-design-primer 
+ - Learn how to design large scale systems. Prep for the system design interview.
+
+
 
 
 # PHP
@@ -53,6 +56,10 @@ https://github.com/Developer-Y/the-talks
  
 https://github.com/Developer-Y/awesome-courses
  - :books: List of awesome university courses for learning Computer Science!
+
+
+https://github.com/Developer-Y/cs-video-courses
+ -  List of Computer Science courses with video lectures.
 
 
 # Android
