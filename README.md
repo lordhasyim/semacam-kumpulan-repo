@@ -30,7 +30,7 @@ https://github.com/sapienza/CodeIgniter-admin-panel
 https://github.com/praswicaksono/modern-php-programming-workshop
  - Modern PHP Programming Workshop Resources
 
-https://github.com/asrul10/grocery_crud_snippets
+https://github.com/asrul10/grocery_crud_snippets 
  - Snippets API and Functions list for Grocery CRUD http://www.grocerycrud.com/ by John Skoumbourdis
 
 https://github.com/eboominathan/Basic-CRUD-in-Codeigniter
