@@ -17,6 +17,10 @@ https://github.com/ripienaar/free-for-dev
 https://github.com/wayanjimmy/mysmartfren-cli
 https://github.com/PUSRISTEK/free-programming-books
 
+https://github.com/Developer-Y/cs-video-courses
+ -  List of Computer Science courses with video lectures.
+
+
 # PHP
 
 https://github.com/sjlu/CodeIgniter-Bootstrap
