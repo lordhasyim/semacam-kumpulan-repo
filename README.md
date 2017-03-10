@@ -40,6 +40,19 @@ https://github.com/asrul10/grocery_crud_snippets
 https://github.com/eboominathan/Basic-CRUD-in-Codeigniter
  - BASIC CRUD For Beginners with following functionalitiies 1)Export as Pdf 2) Export as Excel 3)Import as Excel 4) Multiple File upload 5)Export as Word
 
+# Lecture, Math, Computer Science,  Video
+
+https://github.com/Developer-Y/Scalable-Software-Architecture
+ - Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.
+
+https://github.com/Developer-Y/math-science-video-lectures
+ -  List of Science courses with video lectures
+ 
+https://github.com/Developer-Y/the-talks
+ - Collection of classic motivational/technical/managerial/entrepreneurial/etc talks.
+ 
+https://github.com/Developer-Y/awesome-courses
+ - :books: List of awesome university courses for learning Computer Science!
 
 
 # Android
